@@ -1,0 +1,10 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 9EBD-2810
+
+ Directory of D:\EXTRA\project_utest
+
+03/13/2023  04:10 PM    <DIR>          .
+03/13/2023  03:46 PM    <DIR>          ..
+03/13/2023  04:10 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  192,641,216,512 bytes free
